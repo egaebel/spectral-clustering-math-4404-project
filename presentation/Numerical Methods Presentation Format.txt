@@ -1,0 +1,32 @@
+Numerical Methods Presentation Format
+-------------------------------------
+Problem introduction
+----Real world examples to motivate a problem
+----Discussion of traditional clustering techniques
+Problem Statement
+----Interpretations of problem (graph, data set, etc)
+----Description of relevant spectral graph theory topics
+----Description of NP-Hard problems
+----DIscussion of why clustering techniques count as a numerical method (discrete space stuff?)
+Numerical Methods Used
+----QR Algorithm
+----Other eigenvector method? (if time....shit....)
+----MATLAB eig method
+----Spectral Clustering
+--------Different approaches to spectral clustering (normed, etc, be sure to include relevant analysis in terms of graph spectra)
+--------Different similarity scoring and parameters
+--------State optimization problem
+----K-Means
+--------State optimization problem
+Performance Analysis (mostly big O)
+----QR vs MATLAB vs Other...(shit, maybe)
+Evaluation
+----Difficulty involved, dependent on data
+----Evaluation done
+----Pretty graphs
+Conclusion
+----Discussion of eigen analysis in general, unique properties it affords
+----Discussion of usefulness of spectral clustering
+Code
+
+
